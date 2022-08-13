@@ -1,0 +1,8 @@
+C:\Users\Forhad Hossain\Desktop\Demonstrate the relational and logical operators\Demonstrate the relational and logical operators\bin\Debug\Demonstrate the relational and logical operators.exe.config
+C:\Users\Forhad Hossain\Desktop\Demonstrate the relational and logical operators\Demonstrate the relational and logical operators\bin\Debug\Demonstrate the relational and logical operators.exe
+C:\Users\Forhad Hossain\Desktop\Demonstrate the relational and logical operators\Demonstrate the relational and logical operators\bin\Debug\Demonstrate the relational and logical operators.pdb
+C:\Users\Forhad Hossain\Desktop\Demonstrate the relational and logical operators\Demonstrate the relational and logical operators\obj\Debug\Demonstrate the relational and logical operators.csproj.AssemblyReference.cache
+C:\Users\Forhad Hossain\Desktop\Demonstrate the relational and logical operators\Demonstrate the relational and logical operators\obj\Debug\Demonstrate the relational and logical operators.csproj.SuggestedBindingRedirects.cache
+C:\Users\Forhad Hossain\Desktop\Demonstrate the relational and logical operators\Demonstrate the relational and logical operators\obj\Debug\Demonstrate the relational and logical operators.csproj.CoreCompileInputs.cache
+C:\Users\Forhad Hossain\Desktop\Demonstrate the relational and logical operators\Demonstrate the relational and logical operators\obj\Debug\Demonstrate the relational and logical operators.exe
+C:\Users\Forhad Hossain\Desktop\Demonstrate the relational and logical operators\Demonstrate the relational and logical operators\obj\Debug\Demonstrate the relational and logical operators.pdb
